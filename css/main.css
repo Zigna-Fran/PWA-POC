@@ -1,0 +1,11 @@
+body {
+    background-color: lemonchiffon;
+}
+section {
+    margin: 10px auto;
+    width: 50%;
+}
+
+section > div > img {
+    width: 100%;
+}

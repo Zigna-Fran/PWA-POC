@@ -1,0 +1,23 @@
+{
+    "name": "My Cool App Name",
+    "short_name": "App Name",
+    "theme_color": "#590fc6",
+    "background_color": "#590fc6",
+    "display": "standalone",
+    "orientation": "landscape",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "img/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "img/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
